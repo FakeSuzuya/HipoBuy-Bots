@@ -1,0 +1,32 @@
+{
+  "1416762931445497938": [
+    {
+      "id": "1763909838167",
+      "guildId": "1416762931445497938",
+      "userId": "906471065620987934",
+      "content": "test",
+      "messageId": "1442167132056977439",
+      "upvotes": [],
+      "downvotes": [],
+      "status": "pending",
+      "createdAt": 1763909838167,
+      "reviewedBy": null,
+      "reviewedAt": null
+    },
+    {
+      "id": "1763914591729",
+      "guildId": "1416762931445497938",
+      "userId": "906471065620987934",
+      "content": "test",
+      "messageId": "1442187070352134306",
+      "upvotes": [],
+      "downvotes": [
+        "906471065620987934"
+      ],
+      "status": "pending",
+      "createdAt": 1763914591729,
+      "reviewedBy": null,
+      "reviewedAt": null
+    }
+  ]
+}

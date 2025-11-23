@@ -1,0 +1,78 @@
+{
+  "1416762931445497938": [
+    {
+      "id": "1763909945532",
+      "guildId": "1416762931445497938",
+      "channelId": "1416803943790543061",
+      "hostId": "906471065620987934",
+      "prize": "CDCFD",
+      "duration": 120000000,
+      "endsAt": 1764029945532,
+      "messageId": "1442167582479089785",
+      "participants": [],
+      "ended": false,
+      "winnerId": null,
+      "createdAt": 1763909945532
+    },
+    {
+      "id": "1763911051753",
+      "guildId": "1416762931445497938",
+      "channelId": "1416803943790543061",
+      "hostId": "906471065620987934",
+      "prize": "33",
+      "duration": 180000,
+      "endsAt": 1763911231753,
+      "messageId": "1442172222692130898",
+      "participants": [],
+      "ended": false,
+      "winnerId": null,
+      "createdAt": 1763911051753
+    },
+    {
+      "id": "1763911496111",
+      "guildId": "1416762931445497938",
+      "channelId": "1416803943790543061",
+      "hostId": "906471065620987934",
+      "prize": "dd",
+      "duration": 60000,
+      "endsAt": 1763911556111,
+      "messageId": "1442174086062276609",
+      "participants": [],
+      "ended": false,
+      "winnerId": null,
+      "createdAt": 1763911496111
+    },
+    {
+      "id": "1763912006822",
+      "guildId": "1416762931445497938",
+      "channelId": "1416803932558069810",
+      "hostId": "906471065620987934",
+      "prize": "22",
+      "duration": 60000,
+      "endsAt": 1763912066822,
+      "messageId": "1442176228642652376",
+      "participants": [
+        "906471065620987934"
+      ],
+      "ended": false,
+      "winnerId": null,
+      "createdAt": 1763912006822
+    },
+    {
+      "id": "1763919278969",
+      "guildId": "1416762931445497938",
+      "channelId": "1416803932558069810",
+      "hostId": "906471065620987934",
+      "prize": "gg",
+      "duration": 120000,
+      "endsAt": 1763919398969,
+      "messageId": "1442206730573451286",
+      "participants": [
+        "906471065620987934"
+      ],
+      "ended": false,
+      "winnerId": null,
+      "createdAt": 1763919278969
+    }
+  ]
+}

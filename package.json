@@ -1,0 +1,32 @@
+{
+  "name": "dc-dev-v3.1",
+  "version": "3.1.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discord-bot",
+    "discord.js",
+    "giveaway",
+    "economy",
+    "levels",
+    "moderation"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "Bot Discord complet avec système de niveaux, économie, giveaways, suggestions, modération et bien plus encore",
+  "engines": {
+    "node": ">=16.11.0",
+    "npm": ">=8.0.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.2.3",
+    "@napi-rs/canvas": "^0.1.65"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "1416762931445497938": {
+    "enabled": true,
+    "channelId": "1416803943790543061",
+    "message": "Bienvenue {user} sur {guild} !",
+    "autoRoles": [],
+    "imageEnabled": false
+  }
+}

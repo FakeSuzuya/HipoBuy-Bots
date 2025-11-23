@@ -1,0 +1,24 @@
+{
+  "1416762931445497938": {
+    "coupons": [
+      {
+        "id": "1763920442305",
+        "code": "ERFD",
+        "type": "percentage",
+        "discount": 20,
+        "description": "20% OFF",
+        "minAmount": 0,
+        "maxUses": 0,
+        "currentUses": 1,
+        "expiresAt": null,
+        "createdAt": 1763920442305,
+        "createdBy": "906471065620987934"
+      }
+    ],
+    "redemptions": {
+      "906471065620987934": [
+        "1763920442305"
+      ]
+    }
+  }
+}

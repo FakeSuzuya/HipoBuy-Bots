@@ -1,0 +1,666 @@
+{
+  "1416762931445497938": {
+    "guildId": "1416762931445497938",
+    "events": [
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "help"
+        },
+        "timestamp": 1763909823524
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "suggest"
+        },
+        "timestamp": 1763909838166
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "ticket-panel"
+        },
+        "timestamp": 1763909866189
+      },
+      {
+        "type": "tickets",
+        "data": {
+          "userId": "906471065620987934",
+          "category": "ticket_support"
+        },
+        "timestamp": 1763909876887
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "config"
+        },
+        "timestamp": 1763909906846
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "security"
+        },
+        "timestamp": 1763909920171
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "help"
+        },
+        "timestamp": 1763909933417
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "giveaway"
+        },
+        "timestamp": 1763909945532
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "coinflip"
+        },
+        "timestamp": 1763910050270
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "profile"
+        },
+        "timestamp": 1763910063245
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "daily"
+        },
+        "timestamp": 1763910080650
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "balance"
+        },
+        "timestamp": 1763910094636
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "stats"
+        },
+        "timestamp": 1763910111804
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "coinflip"
+        },
+        "timestamp": 1763910134678
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "help"
+        },
+        "timestamp": 1763910531859
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "backup"
+        },
+        "timestamp": 1763910556134
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "help"
+        },
+        "timestamp": 1763910966012
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "daily"
+        },
+        "timestamp": 1763910976528
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "daily"
+        },
+        "timestamp": 1763910982049
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "balance"
+        },
+        "timestamp": 1763911009994
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "coinflip"
+        },
+        "timestamp": 1763911035367
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "giveaway"
+        },
+        "timestamp": 1763911051752
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "help"
+        },
+        "timestamp": 1763911481211
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "giveaway"
+        },
+        "timestamp": 1763911496110
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "config-roles"
+        },
+        "timestamp": 1763911540316
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "config-roles"
+        },
+        "timestamp": 1763911550181
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "roles"
+        },
+        "timestamp": 1763911561943
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "ticket-panel"
+        },
+        "timestamp": 1763911578150
+      },
+      {
+        "type": "tickets",
+        "data": {
+          "userId": "906471065620987934",
+          "category": "ticket_commercial"
+        },
+        "timestamp": 1763911939595
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "help"
+        },
+        "timestamp": 1763911957189
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "balance"
+        },
+        "timestamp": 1763911963432
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "stats"
+        },
+        "timestamp": 1763911973112
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "giveaway"
+        },
+        "timestamp": 1763912006821
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "leaderboard"
+        },
+        "timestamp": 1763912048071
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "level"
+        },
+        "timestamp": 1763912056654
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "profile"
+        },
+        "timestamp": 1763912098138
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "profile"
+        },
+        "timestamp": 1763912103151
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "profile"
+        },
+        "timestamp": 1763912113970
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "help"
+        },
+        "timestamp": 1763914384072
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "config"
+        },
+        "timestamp": 1763914393035
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "config-roles"
+        },
+        "timestamp": 1763914423206
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "config"
+        },
+        "timestamp": 1763914429615
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "poll"
+        },
+        "timestamp": 1763914462776
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "welcome"
+        },
+        "timestamp": 1763914508790
+      },
+      {
+        "type": "tickets",
+        "data": {
+          "userId": "906471065620987934",
+          "category": "ticket_support"
+        },
+        "timestamp": 1763914519493
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "slots"
+        },
+        "timestamp": 1763914543805
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "warn"
+        },
+        "timestamp": 1763914564557
+      },
+      {
+        "type": "moderation",
+        "data": {
+          "type": "warn",
+          "userId": "302050872383242240",
+          "moderatorId": "906471065620987934"
+        },
+        "timestamp": 1763914564864
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "warnings"
+        },
+        "timestamp": 1763914574795
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "suggest"
+        },
+        "timestamp": 1763914591728
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "suggest"
+        },
+        "timestamp": 1763914607031
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "suggest"
+        },
+        "timestamp": 1763914617967
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "help"
+        },
+        "timestamp": 1763915284756
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "blackjack"
+        },
+        "timestamp": 1763915330341
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "blackjack"
+        },
+        "timestamp": 1763915343250
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "blackjack"
+        },
+        "timestamp": 1763915352407
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "help"
+        },
+        "timestamp": 1763917459925
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "config"
+        },
+        "timestamp": 1763917468625
+      },
+      {
+        "type": "messages",
+        "data": {
+          "userId": "906471065620987934",
+          "channelId": "1416803932558069810"
+        },
+        "timestamp": 1763917485511
+      },
+      {
+        "type": "messages",
+        "data": {
+          "userId": "906471065620987934",
+          "channelId": "1416803932558069810"
+        },
+        "timestamp": 1763917486836
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "level"
+        },
+        "timestamp": 1763917513141
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "poll"
+        },
+        "timestamp": 1763917534580
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "poll"
+        },
+        "timestamp": 1763917697694
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "poll"
+        },
+        "timestamp": 1763918297459
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "ticket-panel"
+        },
+        "timestamp": 1763918362834
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "poll"
+        },
+        "timestamp": 1763918865814
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "poll"
+        },
+        "timestamp": 1763919221961
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "poll"
+        },
+        "timestamp": 1763919234911
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "giveaway"
+        },
+        "timestamp": 1763919273010
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "poll"
+        },
+        "timestamp": 1763919456462
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "poll"
+        },
+        "timestamp": 1763919652748
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "poll"
+        },
+        "timestamp": 1763919762159
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "help"
+        },
+        "timestamp": 1763919793525
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "coupon"
+        },
+        "timestamp": 1763920442303
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "coupon"
+        },
+        "timestamp": 1763920460087
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "coupon"
+        },
+        "timestamp": 1763920470978
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "help"
+        },
+        "timestamp": 1763920700012
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "password"
+        },
+        "timestamp": 1763920713812
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "password"
+        },
+        "timestamp": 1763920728102
+      },
+      {
+        "type": "commands",
+        "data": {
+          "userId": "906471065620987934",
+          "commandName": "password"
+        },
+        "timestamp": 1763920735544
+      }
+    ],
+    "stats": {
+      "messages": 2,
+      "commands": 74,
+      "tickets": 3,
+      "moderation": 1,
+      "joins": 0,
+      "leaves": 0
+    },
+    "dailyStats": {
+      "2025-11-23": {
+        "messages": 2,
+        "commands": 74,
+        "tickets": 3,
+        "moderation": 1,
+        "joins": 0,
+        "leaves": 0
+      }
+    }
+  }
+}

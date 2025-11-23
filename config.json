@@ -1,0 +1,69 @@
+{
+    "token": "xxxx",
+    "guildId": "xxxx",
+    "clientId": "xxx",
+    "ticketCategoryId": "xxxx",
+    "ticketCategories": {
+        "ticket_support": {
+            "name": "📘・support",
+            "emoji": "🛠️",
+            "label": "Support"
+        },
+        "ticket_commercial": {
+            "name": "💼・commercial",
+            "emoji": "💼",
+            "label": "Commercial"
+        },
+        "ticket_client": {
+            "name": "🛒・client",
+            "emoji": "🛒",
+            "label": "Client"
+        }
+    },
+    "logsMessage": "xxx",
+    "logsMember": "ID_SALON_LOGS_MEMBRES",
+    "logsRole": "ID_SALON_LOGS_ROLES",
+    "logsChannel": "ID_SALON_LOGS_SALONS",
+    "logsGuild": "ID_SALON_LOGS_SERVEUR",
+    "logsBan": "ID_SALON_LOGS_BANS",
+    "logsTicket": "ID_SALON_LOGS_TICKETS",
+    "reactionRoles": {
+        
+    },
+    "reviewChannelId": "ID_SALON_AVIS",
+    "ownerId": "TON_ID_PERSO",
+    "imageTheme": {
+        "level": {
+            "primaryColor": "#5865F2",
+            "secondaryColor": "#7289DA",
+            "backgroundColor": "#2C2F33",
+            "textColor": "#FFFFFF",
+            "progressColor": "#5865F2"
+        },
+        "economy": {
+            "primaryColor": "#FFD700",
+            "secondaryColor": "#FFA500",
+            "backgroundColor": "#2C2F33",
+            "textColor": "#FFFFFF",
+            "balanceColor": "#00FF00",
+            "bankColor": "#00BFFF"
+        },
+        "stats": {
+            "primaryColor": "#5865F2",
+            "secondaryColor": "#7289DA",
+            "backgroundColor": "#2C2F33",
+            "textColor": "#FFFFFF",
+            "graphColor": "#5865F2"
+        }
+    },
+    "imageSettings": {
+        "fontPath": "",
+        "exportFormat": "png",
+        "enableAnimations": false,
+        "graphTypes": [
+            "bar",
+            "line",
+            "pie"
+        ]
+    }
+}
